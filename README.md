@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My programming career began in 2005 as a front-end developer, followed by a full-stack PHP developer career in 2015. After a short time, I decided to use the Codeigniter framework. My current framework of choice is Laravel.
+Learning and programming daily improve my vitality and productivity.
+
 <!--
 **SiamakRasouli/SiamakRasouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
